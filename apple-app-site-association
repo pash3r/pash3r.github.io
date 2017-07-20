@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "7RVS24VB2J.org.starikam.Starikam",
+        "paths": [
+          "email-verification/check/*"
+        ]
+      }
+    ]
+  }
+}
