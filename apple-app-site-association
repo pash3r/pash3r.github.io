@@ -5,7 +5,7 @@
       {
         "appID": "7RVS24VB2J.org.starikam.Starikam",
         "paths": [
-          "email-verification/check/*"
+          "/email-verification/check/*"
         ]
       }
     ]
